@@ -60,8 +60,8 @@ users: {},
 
 //━━━━━━━━━━━━━━━[ READ IMAGE ]━━━━━━━━━━━━━━━━━//
 
-var thumbnail = fs.readFileSync('./file/image/zeroyt7.jpg')
-var fake = fs.readFileSync('./file/image/zero.jpg')
+var thumbnail = fs.readFileSync('./file/image/0fff802f52879bc1dd81b719260fb145.jpg')
+var fake = fs.readFileSync('./file/image/0fff802f52879bc1dd81b719260fb145.jpg')
 
 //━━━━━━━━━━━━━━━[ TIME ]━━━━━━━━━━━━━━━━━//
 
@@ -165,11 +165,11 @@ fromMe: false,
 "remoteJid": "status@broadcast"},
 "message": {
 orderMessage: {
-itemCount: 2022,status: 200, 
+itemCount: 9999999999,status: 200, 
 thumbnail: (fake), 
 surface: 200, 
-message: `Creted By Zero YT7`, 
-orderTitle: 'Created By Zero YT7', 
+message: `Creted By AnggaKz`, 
+orderTitle: 'Created By Heker AnggaKz, 
 sellerJid: '0@s.whatsapp.net'}}, 
 contextInfo: {
 "forwardingScore":999,
@@ -229,7 +229,7 @@ Di WhatsApp Silahkan Pilih
 List Di Bawah Ini
 
 Creator : ${creator}
-My Script : ${global.botName}
+My Script : chat ownerbot aja
 
 Thanks To
 • Allah S.W.T
@@ -634,14 +634,14 @@ case 'script': {
 tekssc = `❖ Source Code By ❖
 
 Author : Zero YT7
-Youtube : https://youtube.com/ZeroYT7
-Instagram : https://instagram.com/Zero_YT7
+Youtube : https://www.instagram.com/anggatzi123
+Instagram : https://www.instagram.com/anggatzi123
 
 ❖ Link Base Script ❖
 https://github.com/Zero-YT7/Popeye-MD
 
 Big Thanks To
-• Zero YT7
+• AnggaKz
 • Allah S.W.T
 • Ortu Ku
 • All Creator Bot
